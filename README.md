@@ -1,4 +1,4 @@
-# Study Notes
+# Notes
 知识图谱参考：
 
 1. [Java 工程师成神之路 | 2019正式版 by Hollis  Hollis](https://mp.weixin.qq.com/s/hlAn6NPR1w-MAwqghX1FPg)
